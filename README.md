@@ -1,6 +1,6 @@
 # redline-0-guerrilla
-
-[original website](http://www.merciame.ic24.net/Merciame.html)  
-[improved website](https://geert-timmermans.github.io/redline-O-guerrilla)  
   
-[Opdracht]()
+[Opdracht](https://github.com/geert-timmermans/redline-0-guerrilla/blob/master/opdracht.md) 
+    
+[Original website](http://www.merciame.ic24.net/Merciame.html)  
+[Improved website](https://geert-timmermans.github.io/redline-O-guerrilla)
